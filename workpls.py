@@ -1,1 +1,1 @@
-print("type shit")
+print("the quick brown fox jumps over the lazy dog")
