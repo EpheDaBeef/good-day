@@ -1,1 +1,1 @@
-print("type shit and also hi")
+print("type shit")
